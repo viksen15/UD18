@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2dlFywMZschggfuwNJI4hauPCnaZSK95GT4l/AzppZ6r9uuVyxKy1Ufhgqb36G8ltchnvsvzt/5US9n15Zg7mQ==",
+  "dgSpecHash": "QmwOpeD06YmaFYaqtZQ8wUXuM7h6XxspV7nGbwHOSsHp7Qjr+zd9QNYh6vGNDaIbUQLOgLfiulvhgN0KmwJ62A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\viiksen\\Documents\\curso NET\\GitKraken\\UD18\\Ej_2\\Ej_2\\Ej_2.csproj",
+  "projectFilePath": "C:\\Users\\viiksen\\Documents\\curso NET\\SQL\\UD18\\Ej_3\\Ej_3\\Ej_3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\viiksen\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\viiksen\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

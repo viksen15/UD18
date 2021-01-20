@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viiksen\\Documents\\curso NET\\GitKraken\\UD18\\Ej_2\\Ej_2\\Ej_2.csproj": {}
+    "C:\\Users\\viiksen\\Documents\\curso NET\\SQL\\UD18\\Ej_3\\Ej_3\\Ej_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viiksen\\Documents\\curso NET\\GitKraken\\UD18\\Ej_2\\Ej_2\\Ej_2.csproj": {
+    "C:\\Users\\viiksen\\Documents\\curso NET\\SQL\\UD18\\Ej_3\\Ej_3\\Ej_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viiksen\\Documents\\curso NET\\GitKraken\\UD18\\Ej_2\\Ej_2\\Ej_2.csproj",
-        "projectName": "Ej_2",
-        "projectPath": "C:\\Users\\viiksen\\Documents\\curso NET\\GitKraken\\UD18\\Ej_2\\Ej_2\\Ej_2.csproj",
+        "projectUniqueName": "C:\\Users\\viiksen\\Documents\\curso NET\\SQL\\UD18\\Ej_3\\Ej_3\\Ej_3.csproj",
+        "projectName": "Ej_3",
+        "projectPath": "C:\\Users\\viiksen\\Documents\\curso NET\\SQL\\UD18\\Ej_3\\Ej_3\\Ej_3.csproj",
         "packagesPath": "C:\\Users\\viiksen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viiksen\\Documents\\curso NET\\GitKraken\\UD18\\Ej_2\\Ej_2\\obj\\",
+        "outputPath": "C:\\Users\\viiksen\\Documents\\curso NET\\SQL\\UD18\\Ej_3\\Ej_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
